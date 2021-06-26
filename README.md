@@ -9,8 +9,6 @@
 - Graduated in Systems Information, Estácio de Sá.
 
 
-&nbsp;
-
 
 ### Skills:
 
@@ -27,7 +25,6 @@
 ![Jest](https://img.shields.io/badge/Jest-05122A?logo=jest&style=flat)&nbsp;
 ![Cypress](https://img.shields.io/badge/Cypress-05122A?logo=cypress&style=flat)&nbsp;
 
-&nbsp;
 
 ###  Social:
 

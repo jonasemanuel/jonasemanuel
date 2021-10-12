@@ -5,7 +5,7 @@
 - Software Engineer focused in Front End development. 
 - 25 years old, Brazilian
 - Javascript Enthusiastic
-- Passionate about technology, footbal and music.
+- Passionate about technology, football and music.
 - Graduated in Systems Information, Estácio de Sá.
 
 
